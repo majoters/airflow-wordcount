@@ -1,0 +1,276 @@
+[2024-11-17T11:44:05.450+0000] {processor.py:186} INFO - Started process (PID=369) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:44:05.451+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:44:05.454+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:44:05.453+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:44:05.465+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:44:05.530+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:44:05.530+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:44:05.540+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:44:05.540+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:44:05.547+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.102 seconds
+[2024-11-17T11:44:35.826+0000] {processor.py:186} INFO - Started process (PID=379) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:44:35.827+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:44:35.829+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:44:35.828+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:44:35.838+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:44:35.854+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:44:35.854+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:44:35.864+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:44:35.864+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:44:35.870+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.049 seconds
+[2024-11-17T11:45:06.197+0000] {processor.py:186} INFO - Started process (PID=389) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:06.198+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:45:06.211+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:06.208+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:06.233+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:06.242+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:06.242+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:45:06.257+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:06.257+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:45:06.266+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.080 seconds
+[2024-11-17T11:45:15.390+0000] {processor.py:186} INFO - Started process (PID=182) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:15.391+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:45:15.392+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:15.392+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:15.410+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:15.420+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:15.420+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:45:15.436+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:15.436+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:45:15.443+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.057 seconds
+[2024-11-17T11:45:45.775+0000] {processor.py:186} INFO - Started process (PID=192) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:45.776+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:45:45.778+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:45.778+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:45.794+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:45:45.859+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:45.859+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:45:45.867+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:45:45.867+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:45:45.874+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.105 seconds
+[2024-11-17T11:46:16.199+0000] {processor.py:186} INFO - Started process (PID=202) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:46:16.200+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:46:16.206+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:46:16.206+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:46:16.215+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:46:16.229+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:46:16.228+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:46:16.240+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:46:16.239+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:46:16.246+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.053 seconds
+[2024-11-17T11:46:46.630+0000] {processor.py:186} INFO - Started process (PID=212) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:46:46.633+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:46:46.635+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:46:46.635+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:46:46.652+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:46:46.716+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:46:46.715+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:46:46.724+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:46:46.724+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:46:46.730+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.105 seconds
+[2024-11-17T11:47:17.092+0000] {processor.py:186} INFO - Started process (PID=222) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:47:17.092+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:47:17.096+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:47:17.096+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:47:17.107+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:47:17.127+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:47:17.126+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:47:17.143+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:47:17.143+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:47:17.154+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.068 seconds
+[2024-11-17T11:47:47.567+0000] {processor.py:186} INFO - Started process (PID=234) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:47:47.567+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:47:47.570+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:47:47.570+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:47:47.585+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:47:47.665+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:47:47.665+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:47:47.675+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:47:47.675+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:47:47.682+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.123 seconds
+[2024-11-17T11:48:17.941+0000] {processor.py:186} INFO - Started process (PID=244) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:48:17.941+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:48:17.943+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:48:17.943+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:48:17.951+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:48:17.970+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:48:17.969+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:48:17.979+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:48:17.979+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:48:17.986+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.050 seconds
+[2024-11-17T11:48:48.247+0000] {processor.py:186} INFO - Started process (PID=254) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:48:48.248+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:48:48.250+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:48:48.249+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:48:48.258+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:48:48.266+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:48:48.266+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:48:48.276+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:48:48.276+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:48:48.282+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.040 seconds
+[2024-11-17T11:49:18.598+0000] {processor.py:186} INFO - Started process (PID=264) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:49:18.599+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:49:18.602+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:49:18.601+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:49:18.612+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:49:18.665+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:49:18.665+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:49:18.674+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:49:18.674+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:49:18.681+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.089 seconds
+[2024-11-17T11:49:49.001+0000] {processor.py:186} INFO - Started process (PID=274) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:49:49.002+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:49:49.004+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:49:49.004+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:49:49.014+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:49:49.033+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:49:49.033+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:49:49.043+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:49:49.043+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:49:49.050+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.055 seconds
+[2024-11-17T11:50:22.537+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.537+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 182)
+[2024-11-17T11:50:22.537+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.537+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=182
+[2024-11-17T11:50:22.542+0000] {processor.py:186} INFO - Started process (PID=182) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:22.545+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:50:22.546+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.546+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:22.548+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.548+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:22.551+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.551+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:50:22.554+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.554+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:50:22.557+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.556+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:50:22.557+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:22.557+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.557+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:50:22.558+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.558+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:50:22.565+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.565+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:50:22.577+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.577+0000] {serialized_dag.py:179} DEBUG - Serialized DAG (sparkingFlow) is unchanged. Skipping writing to DB
+[2024-11-17T11:50:22.579+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.579+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:50:22.591+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:22.591+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:50:22.600+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.063 seconds
+[2024-11-17T11:50:52.943+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.942+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 192)
+[2024-11-17T11:50:52.944+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.944+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=192
+[2024-11-17T11:50:52.948+0000] {processor.py:186} INFO - Started process (PID=192) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:52.949+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:50:52.950+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.950+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:52.952+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.952+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:52.958+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.958+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:50:52.963+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.963+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:50:52.966+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.966+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:50:52.967+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:50:52.967+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.967+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:50:52.967+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.967+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:50:52.974+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.974+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:50:52.991+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.991+0000] {serialized_dag.py:182} DEBUG - Writing Serialized DAG: sparkingFlow to the DB
+[2024-11-17T11:50:52.993+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.993+0000] {serialized_dag.py:184} DEBUG - DAG: sparkingFlow written to the DB
+[2024-11-17T11:50:52.995+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:52.995+0000] {dagbag.py:745} DEBUG - Syncing DAG permissions: sparkingFlow to the DB
+[2024-11-17T11:50:53.030+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:53.030+0000] {override.py:1134} DEBUG - Not syncing DAG-level permissions for DAG 'sparkingFlow' as access control is unset.
+[2024-11-17T11:50:53.030+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:53.030+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:50:53.038+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:50:53.038+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:50:53.044+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.102 seconds
+[2024-11-17T11:51:23.442+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.442+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 202)
+[2024-11-17T11:51:23.445+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.445+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=202
+[2024-11-17T11:51:23.451+0000] {processor.py:186} INFO - Started process (PID=202) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:23.455+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:51:23.456+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.456+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:23.459+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.458+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:23.460+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.460+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:51:23.463+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.463+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:51:23.466+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.465+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:51:23.467+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:23.467+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.467+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:51:23.467+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.467+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:51:23.475+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.475+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:51:23.486+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.485+0000] {serialized_dag.py:179} DEBUG - Serialized DAG (sparkingFlow) is unchanged. Skipping writing to DB
+[2024-11-17T11:51:23.486+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.486+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:51:23.497+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:23.497+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:51:23.504+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.062 seconds
+[2024-11-17T11:51:53.957+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.956+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 212)
+[2024-11-17T11:51:53.957+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.957+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=212
+[2024-11-17T11:51:53.962+0000] {processor.py:186} INFO - Started process (PID=212) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:53.962+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:51:53.963+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.963+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:53.964+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.964+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:53.967+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.967+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:51:53.971+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.970+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:51:53.980+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.979+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:51:53.980+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:51:53.981+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.981+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:51:53.981+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.981+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:51:53.988+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.988+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:51:53.997+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.997+0000] {serialized_dag.py:182} DEBUG - Writing Serialized DAG: sparkingFlow to the DB
+[2024-11-17T11:51:53.999+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.999+0000] {serialized_dag.py:184} DEBUG - DAG: sparkingFlow written to the DB
+[2024-11-17T11:51:53.999+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:53.999+0000] {dagbag.py:745} DEBUG - Syncing DAG permissions: sparkingFlow to the DB
+[2024-11-17T11:51:54.037+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:54.036+0000] {override.py:1134} DEBUG - Not syncing DAG-level permissions for DAG 'sparkingFlow' as access control is unset.
+[2024-11-17T11:51:54.037+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:54.037+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:51:54.045+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:51:54.044+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:51:54.051+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.095 seconds
+[2024-11-17T11:52:24.474+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.473+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 222)
+[2024-11-17T11:52:24.475+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.475+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=222
+[2024-11-17T11:52:24.482+0000] {processor.py:186} INFO - Started process (PID=222) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:24.482+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:52:24.483+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.483+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:24.487+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.487+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:24.488+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.488+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:52:24.494+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.494+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:52:24.502+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.501+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:52:24.502+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:24.502+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.502+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:52:24.502+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.502+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:52:24.509+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.509+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:52:24.517+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.517+0000] {serialized_dag.py:179} DEBUG - Serialized DAG (sparkingFlow) is unchanged. Skipping writing to DB
+[2024-11-17T11:52:24.521+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.521+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:52:24.531+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:24.531+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:52:24.538+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.065 seconds
+[2024-11-17T11:52:54.952+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.951+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 232)
+[2024-11-17T11:52:54.952+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.952+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=232
+[2024-11-17T11:52:54.956+0000] {processor.py:186} INFO - Started process (PID=232) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:54.956+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:52:54.957+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.957+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:54.958+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.958+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:54.960+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.960+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:52:54.966+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.966+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:52:54.973+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.972+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:52:54.974+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:52:54.974+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.974+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:52:54.974+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.974+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:52:54.983+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.983+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:52:54.989+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.989+0000] {serialized_dag.py:182} DEBUG - Writing Serialized DAG: sparkingFlow to the DB
+[2024-11-17T11:52:54.991+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.991+0000] {serialized_dag.py:184} DEBUG - DAG: sparkingFlow written to the DB
+[2024-11-17T11:52:54.991+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:54.991+0000] {dagbag.py:745} DEBUG - Syncing DAG permissions: sparkingFlow to the DB
+[2024-11-17T11:52:55.026+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:55.026+0000] {override.py:1134} DEBUG - Not syncing DAG-level permissions for DAG 'sparkingFlow' as access control is unset.
+[2024-11-17T11:52:55.026+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:55.026+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:52:55.035+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:52:55.035+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:52:55.041+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.090 seconds
+[2024-11-17T11:53:25.383+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.382+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 242)
+[2024-11-17T11:53:25.383+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.383+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=242
+[2024-11-17T11:53:25.389+0000] {processor.py:186} INFO - Started process (PID=242) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:25.389+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:53:25.390+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.390+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:25.392+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.392+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:25.395+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.395+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:53:25.398+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.398+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:53:25.411+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.411+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:53:25.412+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:25.412+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.412+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:53:25.412+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.412+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:53:25.421+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.421+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:53:25.430+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.430+0000] {serialized_dag.py:179} DEBUG - Serialized DAG (sparkingFlow) is unchanged. Skipping writing to DB
+[2024-11-17T11:53:25.430+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.430+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:53:25.443+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:25.443+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:53:25.451+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.068 seconds
+[2024-11-17T11:53:55.855+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.855+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 252)
+[2024-11-17T11:53:55.856+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.856+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=252
+[2024-11-17T11:53:55.861+0000] {processor.py:186} INFO - Started process (PID=252) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:55.863+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:53:55.864+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.864+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:55.867+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.867+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:55.869+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.869+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:53:55.872+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.872+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:53:55.876+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.875+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:53:55.879+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:53:55.879+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.879+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:53:55.879+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.879+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:53:55.886+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.886+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:53:55.894+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.894+0000] {serialized_dag.py:182} DEBUG - Writing Serialized DAG: sparkingFlow to the DB
+[2024-11-17T11:53:55.895+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.895+0000] {serialized_dag.py:184} DEBUG - DAG: sparkingFlow written to the DB
+[2024-11-17T11:53:55.896+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.896+0000] {dagbag.py:745} DEBUG - Syncing DAG permissions: sparkingFlow to the DB
+[2024-11-17T11:53:55.929+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.929+0000] {override.py:1134} DEBUG - Not syncing DAG-level permissions for DAG 'sparkingFlow' as access control is unset.
+[2024-11-17T11:53:55.929+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.929+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:53:55.937+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:53:55.937+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:53:55.943+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.088 seconds
+[2024-11-17T11:54:26.344+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.344+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 262)
+[2024-11-17T11:54:26.345+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.345+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=262
+[2024-11-17T11:54:26.349+0000] {processor.py:186} INFO - Started process (PID=262) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:26.349+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:54:26.350+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.350+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:26.352+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.352+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:26.356+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.356+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:54:26.361+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.361+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:54:26.365+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.363+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:54:26.365+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:26.365+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.365+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:54:26.366+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.366+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:54:26.373+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.373+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:54:26.381+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.381+0000] {serialized_dag.py:179} DEBUG - Serialized DAG (sparkingFlow) is unchanged. Skipping writing to DB
+[2024-11-17T11:54:26.383+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.383+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:54:26.393+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:26.393+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:54:26.400+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.057 seconds
+[2024-11-17T11:54:56.816+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.815+0000] {settings.py:475} DEBUG - Setting up DB connection pool (PID 272)
+[2024-11-17T11:54:56.816+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.816+0000] {settings.py:579} DEBUG - settings.prepare_engine_args(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=272
+[2024-11-17T11:54:56.820+0000] {processor.py:186} INFO - Started process (PID=272) to work on /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:56.820+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/spark_airflow_2.py for tasks to queue
+[2024-11-17T11:54:56.822+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.822+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:56.824+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.824+0000] {dagbag.py:369} DEBUG - Importing /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:56.828+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.828+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:54:56.831+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.831+0000] {GetText.py:65} DEBUG - /home/airflow/.local/lib/python3.11/site-packages/cron_descriptor/locale/en_US.mo Loaded
+[2024-11-17T11:54:56.835+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.834+0000] {dagbag.py:554} DEBUG - Loaded DAG <DAG: sparkingFlow>
+[2024-11-17T11:54:56.836+0000] {processor.py:925} INFO - DAG(s) 'sparkingFlow' retrieved from /opt/airflow/dags/spark_airflow_2.py
+[2024-11-17T11:54:56.836+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.836+0000] {dagbag.py:711} DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+[2024-11-17T11:54:56.836+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.836+0000] {dagbag.py:716} DEBUG - Calling the DAG.bulk_sync_to_db method
+[2024-11-17T11:54:56.843+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.843+0000] {serialized_dag.py:168} DEBUG - Checking if DAG (sparkingFlow) changed
+[2024-11-17T11:54:56.851+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.851+0000] {serialized_dag.py:182} DEBUG - Writing Serialized DAG: sparkingFlow to the DB
+[2024-11-17T11:54:56.854+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.854+0000] {serialized_dag.py:184} DEBUG - DAG: sparkingFlow written to the DB
+[2024-11-17T11:54:56.855+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.855+0000] {dagbag.py:745} DEBUG - Syncing DAG permissions: sparkingFlow to the DB
+[2024-11-17T11:54:56.890+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.890+0000] {override.py:1134} DEBUG - Not syncing DAG-level permissions for DAG 'sparkingFlow' as access control is unset.
+[2024-11-17T11:54:56.890+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.890+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-17T11:54:56.898+0000] {logging_mixin.py:190} INFO - [2024-11-17T11:54:56.898+0000] {dag.py:4180} INFO - Setting next_dagrun for sparkingFlow to 2024-11-16T00:00:00+00:00, run_after=2024-11-17T00:00:00+00:00
+[2024-11-17T11:54:56.904+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/spark_airflow_2.py took 0.089 seconds
